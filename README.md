@@ -1,1 +1,1 @@
-# slotmachine
+# slotmachine using react js
